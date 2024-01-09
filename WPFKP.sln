@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFKP", "WPFKP\WPFKP.csproj", "{418FDA14-B8A4-4ABB-BFFA-8B4183D61435}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallPRA", "InstallPRA\InstallPRA.vdproj", "{F4899792-10ED-4263-B559-59F1F6212065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418FDA14-B8A4-4ABB-BFFA-8B4183D61435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418FDA14-B8A4-4ABB-BFFA-8B4183D61435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418FDA14-B8A4-4ABB-BFFA-8B4183D61435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418FDA14-B8A4-4ABB-BFFA-8B4183D61435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4899792-10ED-4263-B559-59F1F6212065}.Debug|Any CPU.ActiveCfg = Debug
+		{F4899792-10ED-4263-B559-59F1F6212065}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A18EF4F-05CA-4D1C-8D5C-40D5FEA90A0E}
+	EndGlobalSection
+EndGlobal
